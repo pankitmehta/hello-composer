@@ -1,0 +1,19 @@
+{
+    "name": "flourish/hello-composer",
+    "description": "Test sample helloworld package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "pankit mehta",
+            "email": "pankit.mehta@yahoo.in"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "flourish\\HelloWorld\\": "src/"
+        }
+    },
+    "require": {}
+}
