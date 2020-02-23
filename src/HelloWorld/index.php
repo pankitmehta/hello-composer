@@ -1,6 +1,6 @@
 <?php 
 
-namespace flourish\HelloWorld;
+namespace flourishdata\HelloWorld;
 
 class Index
 {
